@@ -1,0 +1,8 @@
+../Core/Src/ev_control.c:41:6:EV_Init	16	static
+../Core/Src/ev_control.c:52:10:Read_ADC_Channel	32	static
+../Core/Src/ev_control.c:77:6:EV_ReadADC	16	static
+../Core/Src/ev_control.c:105:6:EV_Update	80	static
+../Core/Src/ev_control.c:201:6:EV_SetDriveMode	16	static
+../Core/Src/ev_control.c:207:6:EV_InjectSpeed	16	static
+../Core/Src/ev_control.c:212:6:EV_InjectSOC	16	static
+../Core/Src/ev_control.c:217:6:EV_InjectMotorTemp	16	static
